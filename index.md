@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 
 email:
   url: dyrnxm52@hanmail.net
   text: dyrnxm52@hanmail.net
