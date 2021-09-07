@@ -9,67 +9,75 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-#
-## 인적 사항
----
+# Wode **Ni**
 
-- 이름 : 김성화
-- 연락처: 010-5282-5079
-- 이메일: dyrnxm52@hanmail.net
-- Github: https://github.com/seong-dodo
-- 블로그: https://velog.io/@seong-dodo
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
 
+{% include cv-contact.html %}
 
+## Education
 
-## 프로젝트 이력
-----
+### **Carnegie Mellon University** `2018.9 -`
 
-### 1. Mine 애플리케이션 - 개인 가계부 웹애플리케이션
+```
+Pittsburgh, PA
+```
 
- 1. 프로젝트 소개
- 	- 가계부 작성을 기반으로 "나의 것"을 지키는 습관을 만들어주고 더 나아가 "자산 관리"로 이어지도록 다양한 정보를 제공하는 서비스입니다.
- 2. 기간
- 	- 2021.06.28 ~ 2021.09.07
- 3. 프로젝트 목표
- 	- [x]  Phase 1 : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
-    - [x]  Phase 2 : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
-   
- 4. 역할
- 	- 가계부에 활용가능한 Calendar UI 컴포넌트를 라이브러리없이 개발
-    - Jest를 이용해서 모든 컴포넌트의 Unit Test 작성
-    - 가계부 조회에 필요한 모달 컴포넌트 개발
-    - 가계부 등록/수정에 필요한 모달 컴포넌트 개발
-    - 모바일 환경에서 이용가능하도록 반응형 CSS 적용
-  
- 5. 기술스택
- 	- Javascript, React, Redux, HTML/CSS, Jest
- 6. github repository
- 	- https://github.com/CodeSoom/project-react-4-seong-dodo
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
+### **Columbia University** `2016.9 - 2018.5`
 
+```
+New York, NY
+```
 
-## 교육 이력 및 학력
----
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
 
-### 교육 이력
+### **Dickinson College** `2013.9 - 2016.5`
 
-1. 코드잇 온라인 강의
-	- 수강한 과목
-    	- HTML/CSS, JavaScript, React
-2. 코드숨 리액트 4기 
-	- 목표
-      - 코드 리뷰와 실제 개발 문화를 경험해보기 위해서 신청 
-    - 경험  
-      - 모든 컴포넌트에 유닛테스트 코드를 작성 
-      - 코드리뷰를 통해 코드를 개선
-      - 순수 자바스크립트로 구현한 코드에서 점진적으로 React로 발전하는 주차별 과제 수행
-      
-      
-### 학력 
+```
+Carlisle, PA
+```
 
-- 창원 대학교 환경 공학과 학사졸업 (2010 ~ 2014)
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
 
-      
+## Publications
+
+### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
+**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
+_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21), to appear._ <br>
+
+### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
+Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
+_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
+[[repo](https://github.com/penrose/penrose)]
+
+### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+
+Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
+<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
+_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
+[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+
+### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+
+Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
+_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
+[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
+[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
 
 ### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
 
