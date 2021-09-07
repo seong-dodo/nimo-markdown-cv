@@ -27,31 +27,30 @@ Supported arguments:
 
 ### [**Mine 웹애플리케이션 개발 - 개인 가계부**](https://github.com/CodeSoom/project-react-4-seong-dodo) `2021.07 - 2021.09`
 
-  ### 소개
+### 소개
   
-    - 가계부 작성을 기반으로 "나의 것"을 지키는 습관을 만들어주고 더 나아가 "자산 관리"로 이어지도록 다양한 정보를 제공하는 서비스입니다.
+- 가계부 작성을 기반으로 "나의 것"을 지키는 습관을 만들어주고 더 나아가 "자산 관리"로 이어지도록 다양한 정보를 제공하는 서비스입니다.
 
- 
-  ### 프로젝트 목표
+### 프로젝트 목표
   
- 	  - Phase 1 : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
-    - Phase 2 : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
+- Phase 1 : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
+- Phase 2 : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
    
-  ### 역할
+### 역할
  
- 	  - 가계부에 활용가능한 Calendar UI 컴포넌트를 라이브러리없이 개발
-    - Jest를 이용해서 모든 컴포넌트의 Unit Test 작성
-    - 가계부 조회에 필요한 모달 컴포넌트 개발
-    - 가계부 등록/수정에 필요한 모달 컴포넌트 개발
-    - 모바일 환경에서 이용가능하도록 반응형 CSS 적용
+- 가계부에 활용가능한 Calendar UI 컴포넌트를 라이브러리없이 개발
+- Jest를 이용해서 모든 컴포넌트의 Unit Test 작성
+- 가계부 조회에 필요한 모달 컴포넌트 개발
+- 가계부 등록/수정에 필요한 모달 컴포넌트 개발
+- 모바일 환경에서 이용가능하도록 반응형 CSS 적용
   
-  ### 기술스택
+### 기술스택
 
- 	 - Javascript, React, Redux, HTML/CSS, Jest
-   
-  ### github repository
+- Javascript, React, Redux, HTML/CSS, Jest
 
- 	 - https://github.com/CodeSoom/project-react-4-seong-dodo
+### github repository
+
+- https://github.com/CodeSoom/project-react-4-seong-dodo
 
 
 
