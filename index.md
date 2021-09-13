@@ -33,8 +33,8 @@ Supported arguments:
 
 ### 2. 프로젝트 목표
   
-- Phase 1 : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
-- Phase 2 : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
+- [Phase1](https://github.com/CodeSoom/project-react-4-seong-dodo/tree/week10) : 백엔드 API 없이 프론트엔드 환경에서만 돌아갈 수 있는 웹애플리케이션을 React와 Redux를 이용해서 개발
+- [Phase2](https://github.com/CodeSoom/project-react-4-seong-dodo/tree/week11) : Phase 1에서 완료한 프론트엔드 환경에서 백엔드 API를 붙여서 영구적인 데이터 저장이 가능하도록 개발
    
 ### 3. 역할
  
@@ -51,7 +51,7 @@ Supported arguments:
 
 ### 5. github repository
 
-- https://github.com/CodeSoom/project-react-4-seong-dodo
+- [Mine 프로젝트 Repository 바로가기](https://github.com/CodeSoom/project-react-4-seong-dodo)
 
 
 <br>
@@ -75,7 +75,7 @@ Supported arguments:
 ### **코드숨 리액트** `2021.5 - 2021.7`
 
 코드 리뷰와 실제 개발문화를 경험해보고 싶어서 신청했습니다. 순수 자바스크립트로 구현한 코드에서 점진적으로 React로 발전하는 주차별 과제를 수행했고. 모든 컴포넌트에 유닛테스트 코드를 작성하면서 요구사항대로 잘 돌아가는 코드를 만들기 위해서 노력했습니다. 모든 과제마다 코드리뷰를 받으면서 좋은 코드를 작성하기 위해서 노력했습니다.
-- [seong-dodo/codesoom-projects Repository](https://github.com/seong-dodo/codesoom-projects)
+- [codesoom-projects Repository 바로가기](https://github.com/seong-dodo/codesoom-projects)
 
 <br>
 
