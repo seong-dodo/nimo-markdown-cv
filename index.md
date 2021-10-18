@@ -25,7 +25,7 @@ Supported arguments:
 
 ## Project
 
-### [**Mine 웹애플리케이션 개발 - 개인 가계부**](https://github.com/CodeSoom/project-react-4-seong-dodo) `2021.07 - 2021.09`
+### [**Mine 웹애플리케이션 개발 : 개인 가계부**](https://github.com/CodeSoom/project-react-4-seong-dodo) `2021.07 - 2021.09`
 
 ### 1. 소개
   
@@ -43,7 +43,9 @@ Supported arguments:
 - JWT기반 로그인 기능 구현
 - 가계부 조회에 필요한 모달 컴포넌트 개발
 - 가계부 등록/수정에 필요한 모달 컴포넌트 개발
-- 모바일 환경에서 이용가능하도록 반응형 CSS 적용
+- 거래내역 화면 무한스크롤 개발
+- 로딩컴포넌트 개발
+- 모바일 환경에서 이용가능하도록 반응형 CSS 적용 (모바일,태블릿,pc)
   
 ### 4. 기술스택
 
@@ -57,7 +59,7 @@ Supported arguments:
 <br>
 
 
-### [**깃허브 친구 찾기 프로그램**](https://github.com/seong-dodo/github-finder-program) `2021.10 - 2021.10`
+### [**github-finder-program : 깃허브 친구 찾기 프로그램**](https://github.com/seong-dodo/github-finder-program) `2021.10 - 2021.10`
 
 ### 1. 소개
   
@@ -66,6 +68,7 @@ Supported arguments:
 ### 2. 프로젝트 목표
   
 - 요구 사항 구현을 위한 전략을 세워 바닐라 자바스크립트로 코드 구현
+- class를 활용해서 컴포넌트 단위로 코드 구현
    
 ### 3. 기술스택
 
