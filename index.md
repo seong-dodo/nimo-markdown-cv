@@ -55,6 +55,27 @@ Supported arguments:
 
 
 <br>
+
+
+### [**깃허브 친구 찾기 프로그램**](https://github.com/seong-dodo/github-finder-program) `2021.10 - 2021.10`
+
+### 1. 소개
+  
+- 깃허브 친구 찾기 검색 서비스입니다.
+
+### 2. 프로젝트 목표
+  
+- 요구 사항 구현을 위한 전략을 세워 바닐라 자바스크립트로 코드 구현
+   
+### 3. 기술스택
+
+- Javascript, HTML/CSS
+
+### 4. github repository
+
+- [깃허브 친구 찾기 프로그램 프로젝트 Repository 바로가기](https://github.com/seong-dodo/github-finder-program)
+
+<br>
 <br>
 
 
