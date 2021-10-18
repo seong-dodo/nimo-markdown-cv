@@ -82,10 +82,9 @@ Supported arguments:
 - [깃허브 친구 찾기 프로그램 프로젝트 Repository 바로가기](https://github.com/seong-dodo/github-finder-program)
 
 
+<br>
+<br>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
